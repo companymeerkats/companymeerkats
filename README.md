@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, this is it companymeerkats</h1>
 <h3 align="center">android developer</h3>
 
-- 🔭 I’m currently working on [meerkat music](github.com/companymeerkats/meerkatMusic)
+- 🔭 I’m currently working on [meerkat music]([github.com/companymeerkats/meerkatMusic](https://github.com/companymeerkats/meerkatMusic))
 
 - 📫 How to reach me **companymeerkats031@gmail.com**
 
