@@ -29,7 +29,7 @@ https://github.com/RezaHosseini031
   alt="YouTube" height="30" width="40" />
 </a>
 <a href="https://cafebazaar.ir/developer/065499492579" target="blank">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Cafe_Bazaar_logo.svg"
+  <img align="center" src="https://webassets.cafebazaar.ir/images/bazaar-logo.svg"
   alt="Cafe Bazaar" height="30" width="40" />
 </a>
 </p>
