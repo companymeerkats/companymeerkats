@@ -2,6 +2,25 @@
 <h3 align="center">android developer</h3>
 
 - 📫 How to reach me **companymeerkats031@gmail.com**
+## About Meerkats
+
+Meerkats is a **personal project brand** used for publishing and organizing
+independent software projects.
+
+All projects under this account are developed **independently by Reza Hosseini**
+as personal and freelance work, not as a registered company or team.
+
+This account is used as a namespace for:
+- Independent Android applications
+- Personal experiments and learning projects
+- Open-source or sample projects
+
+Main developer:
+**Reza Hosseini**  
+Android Developer
+
+For more information and main portfolio:
+https://github.com/RezaHosseini031
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
